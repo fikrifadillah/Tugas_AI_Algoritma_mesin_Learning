@@ -1,0 +1,10 @@
+LogisticRegression
+  * pengolahan data lebih cepat
+  * F1 Score: 0.72
+  * Best parameters found:  {'classifier__criterion': 'entropy', 'classifier__max_depth': 10, 'classifier__min_samples_leaf': 2, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 100}
+  * Best cross-validation score: 0.82
+Random Forest
+  * Pengolahan data lebih lama dikarenakan mengolahdatanya lebih terperinci
+  * F1 Score: ).74
+  * Best parameters found:  {'classifier__criterion': 'entropy', 'classifier__max_depth': 10, 'classifier__min_samples_leaf': 2, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 100}
+  * Best cross-validation score: 0.84
